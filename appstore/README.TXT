@@ -1,4 +1,4 @@
 
 PROJECT TITLE: App store
 AUTHORS: Richard Brown
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: App created in Blue J IDE
